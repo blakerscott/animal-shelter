@@ -1,1 +1,21 @@
-h1 {}
+body {
+  background-color: lightblue;
+  color: darkblue;
+  text-align: center;
+}
+
+h3 {
+text-align: left;
+}
+
+.dog {
+  color: green;
+}
+
+.cat {
+  color: orange;
+}
+
+.dog h2 {
+  font-weight: bold;
+}
