@@ -5,7 +5,7 @@ body {
 }
 
 h3 {
-text-align: left;
+  text-align: left;
 }
 
 .dog {
@@ -18,4 +18,10 @@ text-align: left;
 
 .dog h2 {
   font-weight: bold;
+}
+
+.columns {
+  width: 200px;
+  float: left;
+  margin: 60px;
 }
